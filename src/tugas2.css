@@ -1,0 +1,14 @@
+.Header {
+	display: flex;
+	justify-content: center;
+	list-style-type: none;
+	font-weight: 700;
+	margin-top: 20px;
+	font-size: large;
+}
+
+.Footer {
+	font-weight: 600;
+}
+
+
